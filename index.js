@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "729835500084800";
-const LOCKED_GROUP_NAME = "ACHA AB TU MERE SE LADEGA YHA PR SAALE";
+const GROUP_THREAD_ID = "786087714343888";
+const LOCKED_GROUP_NAME = "ALLAH TERI MA CHUDEGA QAYAMAT TAK BETA";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
