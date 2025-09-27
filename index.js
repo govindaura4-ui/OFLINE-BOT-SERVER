@@ -13,7 +13,7 @@ try {
 
 // ✅ Group Info
 const GROUP_THREAD_ID = "729835500084800";
-const LOCKED_GROUP_NAME = "TERI MA KA BHOSDA";
+const LOCKED_GROUP_NAME = "ACHA AB TU MERE SE LADEGA YHA PR SAALE";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
